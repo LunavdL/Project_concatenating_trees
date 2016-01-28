@@ -1,7 +1,8 @@
 # Project_concatenating_trees
 
-# This repository contains scripts to:
-# Make phylogenetic trees based on maximum likelihood using .fasta files
+This repository contains scripts to:
+Make phylogenetic trees based on maximum likelihood using .fasta files
+
 # it can process both single markers and can concatinate multiple markers to produce a tree based on a longer sequence
 # It also allows you to specify bootstrap values
 # the file has been specified for algae and seagrasses, but the names can be altered
@@ -21,4 +22,5 @@
 #   - treemaker2.sh # this uses phyML to build tree based on multiple markers
 #   - test_data # can be used to test the script
 #   - Example_results_bootstrap_20 # examples of the output of the script, when bootstrap = 20 has been used
+
 ![tree_example](all_COI.svg)
