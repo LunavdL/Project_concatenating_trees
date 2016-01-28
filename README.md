@@ -21,4 +21,7 @@ Content of the repository:
   - test_data                     # can be used to test the script
   - Example_results_bootstrap_20  # examples of the output of the script, when bootstrap = 20 has been used
 
+
+
+Example of a phylogenetic tree that can be made with the script in this repository:
 ![tree_example2](all_COI.png)
