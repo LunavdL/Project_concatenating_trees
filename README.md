@@ -24,4 +24,6 @@ Content of the repository:
 
 
 Example of a phylogenetic tree that can be made with the script in this repository:
+
+
 ![tree_example2](all_COI.png)
