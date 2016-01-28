@@ -1,7 +1,6 @@
 #! /bin/bash
 
-# this script prints a description of the original sequences, does a multiple alignment, 
-# estimates the best phylogenetic tree and displays this tree
+# this script does a multiple alignment with nexus format as output
 
 # $1 is the fasta file input $2 is the bootstrapvalue
 # input in terminal: Treemaker filename bootstrapvalue
