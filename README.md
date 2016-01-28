@@ -7,9 +7,9 @@ It also allows you to specify bootstrap values
 the file has been specified for algae and seagrasses, but the names can be altered
 
 Required programs that need to be installed before running the script:
- 	- PhyML
- 	- ClustalW
- 	- ETE toolkit
+  - PhyML
+  - ClustalW
+  - ETE toolkit
   - Biopython
 
 Content of the repository:
