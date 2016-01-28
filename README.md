@@ -23,3 +23,4 @@ Content of the repository:
   - Example_results_bootstrap_20 # examples of the output of the script, when bootstrap = 20 has been used
 
 ![tree_example](all_COI.svg)
+![tree_example2](all_COI.png)
