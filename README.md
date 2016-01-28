@@ -19,7 +19,7 @@ Content of the repository:
   - treemaker.sh                  # this uses phyML to build trees based on single markers
   - treemaker2.sh                 # this uses phyML to build tree based on multiple markers
   - test_data                     # can be used to test the script
-  - Example_results_bootstrap_20  # examples of the output of the script, when bootstrap = 20 has been used
+  - Example_results_bootstrap_20             # examples of the output of the script, when bootstrap = 20 has been used
 
 
 
