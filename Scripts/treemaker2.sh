@@ -1,8 +1,8 @@
 #! /bin/bash
 
-# this script prints a description of the original sequences, does a multiple alignment, estimates the best phylogenetic tree and displays this tree
-
-# requires newick utils to be installed: http://cegg.unige.ch/newick_utils
+# this script prints a description of the original sequences
+# does a multiple alignment
+# estimates the best phylogenetic tree
 
 # $1 is the fasta file input $2 is the bootstrapvalue
 # input in terminal: Treemaker filename bootstrapvalue
