@@ -7,7 +7,6 @@
 # $1 is the fasta file input $2 is the bootstrapvalue
 # input in terminal: Treemaker filename bootstrapvalue
 # default bootstrap value = 20
-# the name of the output value can be changed in outfile= (line 19)
 
 Treemaker2(){
 	#estimates the best tree 
