@@ -61,7 +61,9 @@ Aligner all_LSUD2D3.fas
 
 # To be able to calculate the most likely tree (with phyml), a phylip format is required.
 # This will be done using the seqmagick tool.
-# You have to delete the last 10 lines with information (this needs to be altered if you concatenate more or less markers) for seqmagick to work:
+# You have to delete the last 10 lines with information
+# (this needs to be altered if you concatenate more or less markers: number of input files + 3)
+# for seqmagick to work:
 head -n -10 combined.nex > combined_use.nex
 # Now use seqmagick to convert to phylip
 seqmagick convert --output-format phylip --alphabet dna combined_use.nex combined.phy
